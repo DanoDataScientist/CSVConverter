@@ -1,0 +1,77 @@
+All
+Location: 3/10%
+Qualitative: 3/10%
+Size: 6/20%
+Majors: 5/16%
+Type: 3/10%
+Selectivity: 2/6%
+Qualitative, Majors: 3/10%
+Size, Type, Selectivity: 2/6%
+Location, Size, Majors: 3/10%
+Total: 30/100%
+
+sample 1
+Size: 1/100%
+Total: 1/100%
+
+sample 2
+Qualitative: 1/25%
+Majors: 1/25%
+Qualitative, Majors: 1/25%
+Location, Size, Majors: 1/25%
+Total: 4/100%
+
+sample 3
+Size: 1/25%
+Type: 1/25%
+Selectivity: 1/25%
+Size, Type, Selectivity: 1/25%
+Total: 4/100%
+
+sample 4
+
+sample 5
+Qualitative: 1/25%
+Majors: 1/25%
+Qualitative, Majors: 1/25%
+Location, Size, Majors: 1/25%
+Total: 4/100%
+
+sample 6
+Size: 1/25%
+Type: 1/25%
+Selectivity: 1/25%
+Size, Type, Selectivity: 1/25%
+Total: 4/100%
+
+sample 7
+Qualitative: 1/25%
+Majors: 1/25%
+Qualitative, Majors: 1/25%
+Location, Size, Majors: 1/25%
+Total: 4/100%
+
+sample 8
+Size: 1/100%
+Total: 1/100%
+
+sample 9
+Location: 1/100%
+Total: 1/100%
+
+sample 10
+Location: 1/33%
+Size: 1/33%
+Majors: 1/33%
+Total: 3/100%
+
+sample 11
+Type: 1/100%
+Total: 1/100%
+
+sample 12
+Location: 1/33%
+Size: 1/33%
+Majors: 1/33%
+Total: 3/100%
+

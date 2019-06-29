@@ -1,0 +1,26 @@
+All
+Qualitative, Majors: 3/27%
+Size: 2/18%
+Size, Type, Selectivity: 2/18%
+Location, Size, Majors: 2/18%
+Location: 1/9%
+Type: 1/9%
+Total: 11/100%
+
+One
+Size: 2/50%
+Location: 1/25%
+Type: 1/25%
+Total: 4/100%
+
+Two
+Qualitative, Majors: 3/100%
+Total: 3/100%
+
+Three
+Size, Type, Selectivity: 2/50%
+Location, Size, Majors: 2/50%
+Total: 4/100%
+
+
+
