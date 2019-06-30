@@ -3,6 +3,8 @@ import csv
 import sys
 from optparse import OptionParser
 
+#TODO - Genericize the classes so that it can take in any CSV format.
+
 # There are three multi-value dimensions that are important.
 loc_name = 'Location: '
 qua_name = 'Qualitative: '
